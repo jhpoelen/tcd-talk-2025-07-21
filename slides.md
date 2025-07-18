@@ -1,7 +1,7 @@
 ---
 author: Jorrit H. Poelen
 title: "Trinity’s Institutional Repository in 2030"
-subtitle: a Roadmap in a National and European Open Science Context https://creativecommons.org/licenses/by/4.0/
+subtitle: a Roadmap in a National and European Open Science Context
 date: 2025-07-21
 ---
 
