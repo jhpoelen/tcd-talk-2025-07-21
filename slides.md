@@ -51,7 +51,7 @@ $~~~~~~~$ 2022 | NORF ^[National Open Research Forum (NORF). (2022). National Ac
  
  - Gather, Share and Implement Data Management Best Practices 
  
- - Tracking Socio-economic Benefits of Applied Open Access 
+ - Tracking Socio-economic Benefits of *Applied* Open Science
 
  - Support Digital Publication Needs of the Research Community
  
@@ -67,7 +67,7 @@ $~~~~~~~$ 2022 | NORF ^[National Open Research Forum (NORF). (2022). National Ac
  
  - Gather, Share and Implement Data Management Best Practices 
  
- - Tracking Socio-economic Benefits and Science Outcomes of Applied Open Access 
+ - Tracking Socio-economic Benefits of *Applied* Open Science
 
  - Support Digital Publication Needs of the Research Community
  
@@ -83,7 +83,7 @@ $~~~~~~~$ 2022 | NORF ^[National Open Research Forum (NORF). (2022). National Ac
  
  - Gather, Share and Implement Data Management Best Practices 
  
- - Tracking Socio-economic Benefits and Science Outcomes of Applied Open Access 
+ - Tracking Socio-economic Benefits of *Applied* Open Science
 
  - Support Digital Publication Needs of the Research Community
  
