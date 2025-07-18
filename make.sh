@@ -4,6 +4,7 @@
 
 pandoc\
  -s\
+ -t slidy\
  -o slides.html\
  README.md
 
