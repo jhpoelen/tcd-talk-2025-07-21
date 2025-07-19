@@ -19,9 +19,9 @@ CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/lic
  
  * What are TARA's goals for 2030, and how to get there? 
  
-## What is Open Science?
+## What Is Open Science?
 
-> "**Open science** is defined as an inclusive construct that combines various movements and practices aiming to make multilingual **scientific knowledge** openly available, accessible and **reusable for everyone**, to **increase scientific collaborations** and sharing of information for the **benefits of science and society**, and to **open the processes of scientific knowledge creation**, evaluation and communication to societal actors beyond the traditional scientific community."^[UNESCO. (2021). UNESCO Recommendation on Open Science. https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en]
+> "**Open science** is defined as an inclusive construct that combines various movements and practices aiming to make multilingual **scientific knowledge** openly available, accessible and **reusable for everyone**, to **increase scientific collaborations** and sharing of information for the **benefits of science and society**, and to **open the processes of scientific knowledge creation**, evaluation and communication to societal actors **beyond the traditional scientific community**."^[UNESCO. (2021). UNESCO Recommendation on Open Science. https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en]
 
 ## A Short History of Open Science
 
@@ -37,7 +37,7 @@ $~~~~~$ 2016 | FAIR Principles
 
 $~~~~~~$ 2018 | Plan S / cOAlition S
 
-$~~~~~~~$ 2022 | NORF ^[National Open Research Forum (NORF). (2022). National Action Plan for Open Research. https://doi.org/10.7486/DRI.ff36jz22s]
+$~~~~~~~$ 2022 | National Action Plan for Open Research ^[National Open Research Forum (NORF). (2022). National Action Plan for Open Research. [doi:10.7486/DRI.ff36jz222](https://doi.org/10.7486/DRI.ff36jz222)]
 
 **2030 | TARA Facilitates 100% Open Access at Trinity** ^[Where possible and as aligned with adopted national and international frameworks.]
 
@@ -51,13 +51,13 @@ $~~~~~~~$ 2022 | NORF ^[National Open Research Forum (NORF). (2022). National Ac
  
  - Gather, Share and Implement Data Management Best Practices 
  
- - Tracking Socio-economic Benefits of *Applied* Open Science
+ - Track Socio-economic Benefits of *Applied* Open Science
 
  - Support Digital Publication Needs of the Research Community
  
  - Foster Collaboration within Ireland and Beyond 
 
- - Implement, Maintain, and Improve Digital Infrastructures
+ - Improve, Align, and Connect Digital Infrastructures
  
  - Socialize through Workshops, Courses, Events and Being Around (**Social** Infrastructure!)
 
@@ -67,13 +67,13 @@ $~~~~~~~$ 2022 | NORF ^[National Open Research Forum (NORF). (2022). National Ac
  
  - Gather, Share and Implement Data Management Best Practices 
  
- - Tracking Socio-economic Benefits of *Applied* Open Science
+ - Track Socio-economic Benefits of *Applied* Open Science
 
  - Support Digital Publication Needs of the Research Community
  
  - Foster Collaboration within Ireland and Beyond 
 
- - Implement, Maintain, and Improve Digital Infrastructures
+ - Improve, Align, and Connect Digital Infrastructures
  
  - Socialize through Workshops, Courses, Events and Being Around (**Social** Infrastructure!)
 
@@ -83,16 +83,15 @@ $~~~~~~~$ 2022 | NORF ^[National Open Research Forum (NORF). (2022). National Ac
  
  - Gather, Share and Implement Data Management Best Practices 
  
- - Tracking Socio-economic Benefits of *Applied* Open Science
+ - Track Socio-economic Benefits of *Applied* Open Science
 
  - Support Digital Publication Needs of the Research Community
  
  - Foster Collaboration within Ireland and Beyond 
 
- - Implement, Maintain, and Improve Digital Infrastructures
+ - Improve, Align, and Connect Digital Infrastructures
  
  - Socialize through Workshops, Courses, Events and Being Around (**Social** Infrastructure!)
-
 
 ### **Iterative Approach To Help Collaborate and Learn**
 
@@ -108,7 +107,7 @@ $~~~~~~~$ 2022 | NORF ^[National Open Research Forum (NORF). (2022). National Ac
 
 **TARA Institutional Repository at Trinity College Dublin** [https://www.tcd.ie/library/riss/tara/](https://www.tcd.ie/library/riss/tara/) 
 
-(Irish) National Open Research Forum (NORF). (2022). **National Action Plan for Open Research.** [https://doi.org/10.7486/DRI.ff36jz22s](https://doi.org/10.7486/DRI.ff36jz22s)
+(Irish) National Open Research Forum (NORF). (2022). **National Action Plan for Open Research.** [https://doi.org/10.7486/DRI.ff36jz222](https://doi.org/10.7486/DRI.ff36jz222)
 
 **Plan S / cOAlition S** [https://www.coalition-s.org/](https://www.coalition-s.org/)
 
