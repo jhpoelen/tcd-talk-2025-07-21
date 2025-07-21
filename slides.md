@@ -5,6 +5,7 @@ subtitle: a Roadmap in a National and European Open Science Context
 date: 2025-07-21
 ---
 
+![](img/qrcode.png)
 
 ### Cite As
 
@@ -135,3 +136,4 @@ For questions/comments/ideas, please do reach out to:
 
 [https://orcid.org/0000-0003-3138-4118](https://orcid.org/0000-0003-3138-4118)
 
+![](img/qrcode.png)
