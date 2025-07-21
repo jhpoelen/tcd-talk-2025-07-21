@@ -5,9 +5,17 @@ subtitle: a Roadmap in a National and European Open Science Context
 date: 2025-07-21
 ---
 
+
+### Cite As
+
+Poelen, J.H. (2025) Trinity’s Institutional Repository in 2030. Zenodo. [https://doi.org/10.5281/zenodo.16248158](https://doi.org/10.5281/zenodo.16248158)
+
+### License
+
+CC BY 4.0. For license text, see [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/). 
+
 ![](img/cc-by.png)
 
-CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
 
 ---
 
